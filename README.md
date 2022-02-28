@@ -1,2 +1,2 @@
 # hello-world
-sus
+This is the tutorial I'm doing for Github. Honestly pretty easy.
